@@ -1,3 +1,3 @@
 # AutoBootManager
 开机启动管理，需要ROOT权限
-22222222
+3333333
